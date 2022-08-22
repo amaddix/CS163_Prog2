@@ -1,6 +1,6 @@
 # CS163_Prog2
-#Ashley Maddix
-#Spring 2018
+# Ashley Maddix
+# Spring 2018
 
 
 What functions your ADT will need to have
